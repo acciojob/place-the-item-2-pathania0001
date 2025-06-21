@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.holder{
+  display:flex;
+	flex-direction:row-reverse;
+	justify-content:center;
+	
+}
+.item{
+   border:2px solid;
+	padding:10px;
+}
